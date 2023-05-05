@@ -7,6 +7,7 @@ db.sqlite3
 static/
 media/
 project/local_settings.py
+comands/
 
 # Backup files #
 *.bak
@@ -129,7 +130,6 @@ Control.ca-list
 Control.ca-bundle
 Control.system-ca-bundle
 GitHub.sublime-settings
-.gitignore
 
 # Visual Studio Code #
 .vscode
